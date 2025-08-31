@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating User Research SaaS<br>🎯 Goals: Monetize it</p>
+<p align="left">✨ Learning PHP&Laravel<br>🎯 Goals: Create something with it</p>
 
 ###
 
