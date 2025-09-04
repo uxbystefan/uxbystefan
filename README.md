@@ -2,7 +2,7 @@
 
 
 
-<h1 align="left">I am Stefan, Dubai based UX Designer</h1>
+<h1 align="left">I am Stefan, Dubai based UX Designer | Web Developer</h1>
 
 ###
 
