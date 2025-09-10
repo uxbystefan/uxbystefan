@@ -10,8 +10,8 @@
 
 ###
 
-<p align="left">📚 I'm currently working with Vue file:///C:/Users/Stefan/Downloads/vue-svgrepo-com.svg 
-  🎯 Goals: Create something cool with it 💀</p>
+<p align="left">📚 I'm currently working with Vue 
+                🎯 Goals: Create something cool with it 💀</p>
 
 ###
 
