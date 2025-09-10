@@ -11,7 +11,7 @@
 ###
 
 <p align="left">📚 I'm currently working with Vue 
-                🎯 Goals: Create something cool with it 💀</p>
+                <p>🎯 Goals: Create something cool with it 💀</p>
 
 ###
 
