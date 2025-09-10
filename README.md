@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Learning PHP&Laravel<br>🎯 Goals: Create something with it</p>
+<p align="left">📚 I'm currently working with Vue  🎯 Goals: Create something cool with it 💀</p>
 
 ###
 
