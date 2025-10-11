@@ -10,8 +10,8 @@
 
 ###
 
-<p align="left">📚 I'm currently working with Vue 
-                <p>🎯 Goals: Create something cool with it </p>
+<p align="left">📚 I'm currently working with CSS / React / Vue 
+                <p>🎯 Goals: Quad Design System </p>
 
 ###
 
