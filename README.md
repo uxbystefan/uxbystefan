@@ -2,7 +2,7 @@
 
 
 
-<h1 align="left">I am Stefan, Dubai based UX Designer | Web Developer</h1>
+<h1 align="left">Product Designer with Web Development backgrund </h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently working with CSS / React / Vue 
+<p align="left">📚 I'm currently working with Svelte/SvelteKit 
                 <p>🎯 Goals: Quad Design System </p>
 
 ###
