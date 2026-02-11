@@ -2,7 +2,7 @@
 
 
 
-<h1 align="left">Product Designer with Web Development backgrund </h1>
+<h1 align="left">Product Designer with Web Development background </h1>
 
 ###
 
